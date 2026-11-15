@@ -18,6 +18,7 @@ public class TreeSetDemo4 {
         for(Student2 s:ts){
             System.out.println(s);
         }
+        System.out.println("我进行更改");
 
     }
 }
